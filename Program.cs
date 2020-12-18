@@ -9,6 +9,9 @@ namespace AreaCerchio
         {
             Console.WriteLine("Hello World");
 
+            Console.Writeline("Inserisci un numero");
+            int numero = Console.Readline();
+
 
         }
     }
